@@ -1033,7 +1033,7 @@ cz-conventional-changelog@^3.3.0:
 
 cz-customizable@^6.3.0:
   version "6.3.0"
-  resolved "https://registry.npmjs.org/cz-customizable/-/cz-customizable-6.3.0.tgz"
+  resolved "https://registry.yarnpkg.com/cz-customizable/-/cz-customizable-6.3.0.tgz#1b24e5b84e1fccaa18ad837612b233b8c51d7882"
   integrity sha512-MWGmWa45v4Ds3NJNNwQc3GCFdjtH3k4ypDWoWkwultMVLf7aOHR9VaXGYGZHLOQS4sMfbkBSjNUYoXCSmLuRSA==
   dependencies:
     editor "1.0.0"
